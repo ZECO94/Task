@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B343DF-5439-4D3E-814F-CE116298E675}|BankingSystemll\\BankingSystemll.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\bankingsystem\\bankingsystemll\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B343DF-5439-4D3E-814F-CE116298E675}|BankingSystemll\\BankingSystemll.csproj|solutionrelative:bankingsystemll\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B343DF-5439-4D3E-814F-CE116298E675}|BankingSystemll\\BankingSystemll.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\bankingsystem\\bankingsystemll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B343DF-5439-4D3E-814F-CE116298E675}|BankingSystemll\\BankingSystemll.csproj|solutionrelative:bankingsystemll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewAccount.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\BankingSystem\\BankingSystemll\\NewAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystemll\\NewAccount.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\BankingSystem\\BankingSystemll\\NewAccount.cs",
+              "RelativeToolTip": "BankingSystemll\\NewAccount.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:39:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\BankingSystem\\BankingSystemll\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystemll\\Program.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\BankingSystem\\BankingSystemll\\Program.cs",
+              "RelativeToolTip": "BankingSystemll\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:38:24.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

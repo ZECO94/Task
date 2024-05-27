@@ -1,0 +1,14 @@
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\BankingSystem\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
