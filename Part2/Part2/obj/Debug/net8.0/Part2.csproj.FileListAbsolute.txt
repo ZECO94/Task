@@ -1,0 +1,15 @@
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\bin\Debug\net8.0\Part2.exe
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\bin\Debug\net8.0\Part2.deps.json
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\bin\Debug\net8.0\Part2.runtimeconfig.json
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\bin\Debug\net8.0\Part2.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\bin\Debug\net8.0\Part2.pdb
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.sourcelink.json
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\refint\Part2.dll
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.pdb
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+E:\.NET\Course\Eraa Soft\4)18-05-2024\Task4\Part2\Part2\obj\Debug\net8.0\ref\Part2.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|e:\\.net\\course\\eraa soft\\4)18-05-2024\\task4\\part2\\part2\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F83277-ACD4-4ED0-AC65-49D884DAA8D6}|Part2\\Part2.csproj|solutionrelative:part2\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "Part2\\TrustAccount.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\TrustAccount.cs",
+              "RelativeToolTip": "Part2\\TrustAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:34:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Part2\\CheckingAccount.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\CheckingAccount.cs",
+              "RelativeToolTip": "Part2\\CheckingAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:33:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Part2\\SavingAccount.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\SavingAccount.cs",
+              "RelativeToolTip": "Part2\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:33:04.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Part2\\AccountUtil.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\AccountUtil.cs",
+              "RelativeToolTip": "Part2\\AccountUtil.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAUwIgAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:18:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\Account.cs",
+              "RelativeDocumentMoniker": "Part2\\Account.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\Account.cs",
+              "RelativeToolTip": "Part2\\Account.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:17:46.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\Program.cs",
+              "RelativeDocumentMoniker": "Part2\\Program.cs",
+              "ToolTip": "E:\\.NET\\Course\\Eraa Soft\\4)18-05-2024\\Task4\\Part2\\Part2\\Program.cs",
+              "RelativeToolTip": "Part2\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:16:55.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
